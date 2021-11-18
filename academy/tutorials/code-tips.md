@@ -1,5 +1,7 @@
 # Code Tips
 
+<h1>Bla</h1>
+
 {% embed url="https://codepen.io/pjhooker/pen/LYLqemN" %}
 
 {% embed url="https://jsfiddle.net/pjhooker/es9m41bt/1" %}
