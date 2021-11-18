@@ -1,11 +1,11 @@
 # Table of contents
 
 * [GTA-00](README.md)
-  * [Roadmap](the-academy/roadmap/README.md)
-    * [Phase 0.5 - Community](the-academy/roadmap/phase-0.5-community.md)
-  * [License](the-academy/license.md)
-  * [History](the-academy/history.md)
-  * [Link-docs](the-academy/link-docs.md)
+  * [Roadmap](readme/roadmap/README.md)
+    * [Phase 0.5 - Community](readme/roadmap/phase-0.5-community.md)
+  * [License](readme/license.md)
+  * [History](readme/history.md)
+  * [Link-docs](readme/link-docs.md)
   * [Contact](https://forms.gle/ZZkLjLoaTzGXDmHz9)
 
 ## Academy
