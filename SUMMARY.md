@@ -15,4 +15,5 @@
   * [Sections](academy/discord-server/sections.md)
 * [Utility](academy/utility/README.md)
   * [Text and paragraphs](academy/utility/text-and-paragraphs.md)
-* [Tutorials](academy/tutorials.md)
+* [Tutorials](academy/tutorials/README.md)
+  * [Code Tips](academy/tutorials/code-tips.md)
