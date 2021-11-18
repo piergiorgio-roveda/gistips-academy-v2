@@ -1,6 +1,6 @@
 # Table of contents
 
-* [The Academy](README.md)
+* [GTA-00](README.md)
   * [Roadmap](the-academy/roadmap/README.md)
     * [Phase 0.5 - Community](the-academy/roadmap/phase-0.5-community.md)
   * [License](the-academy/license.md)
