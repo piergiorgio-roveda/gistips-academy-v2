@@ -9,6 +9,7 @@
 
 ## Academy
 
+* [Project](academy/project.md)
 * [Discord server](academy/discord-server/README.md)
   * [Sections](academy/discord-server/sections.md)
 * [Utility](academy/utility/README.md)
