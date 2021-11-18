@@ -6,6 +6,7 @@
   * [License](the-academy/license.md)
   * [History](the-academy/history.md)
   * [Link-docs](the-academy/link-docs.md)
+  * [Contact](https://forms.gle/ZZkLjLoaTzGXDmHz9)
 
 ## Academy
 
