@@ -21,3 +21,4 @@
     * [MOD000 - Prepare ext.](academy/tutorials/code-tips/mod000-prepare-ext..md)
     * [MOD001 - ext. Ribbon](academy/tutorials/code-tips/mod001-ext.-ribbon.md)
     * [MOD002 - Improve the style](academy/tutorials/code-tips/mod002-improve-the-style.md)
+    * [MOD003 - ext. Aletify](academy/tutorials/code-tips/mod003-ext.-aletify.md)
