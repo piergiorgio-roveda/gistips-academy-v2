@@ -16,4 +16,7 @@
 * [Utility](academy/utility/README.md)
   * [Text and paragraphs](academy/utility/text-and-paragraphs.md)
 * [Tutorials](academy/tutorials/README.md)
-  * [Code Tips](academy/tutorials/code-tips.md)
+  * [WebGIS](academy/tutorials/code-tips/README.md)
+    * [Leaflet Quick Start Guide](academy/tutorials/code-tips/leaflet-quick-start-guide.md)
+    * [MOD000 - Prepare modules](academy/tutorials/code-tips/mod000-prepare-modules.md)
+    * [MOD001 - Ribbon](academy/tutorials/code-tips/mod001-ribbon.md)
