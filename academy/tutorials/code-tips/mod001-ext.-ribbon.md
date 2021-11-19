@@ -1,4 +1,4 @@
-# MOD001 - Ribbon
+# MOD001 - ext. Ribbon
 
 This is a recreation of the [Fork me on GitHub ribbon](https://github.com/blog/273-github-ribbons) in CSS, hence resolution-independent.This is a recreation of the [Fork me on GitHub ribbon](https://github.com/blog/273-github-ribbons) in CSS, hence resolution-independent.
 
@@ -21,3 +21,21 @@ And this into the `<body>` of your page:
 ```
 
 {% embed url="https://codepen.io/pjhooker/pen/YzxgWXX" %}
+
+### Use Ribbon as ext
+
+Create ./js/script002.js with the following code and insert as "External Scripts":
+
+```
+$( document ).ready(function() {
+  $('body').append('<a '
+    +'class="github-fork-ribbon" '
+    +'href="https://piergiorgio.gitbook.io/gistips-academy/" '
+    +'data-ribbon="GISTIPS-Academy" '
+    +'title="GISTIPS-Academy"> '
+    +'GISTIPS-Academy '
+  +'</a>');
+});
+```
+
+{% embed url="https://codepen.io/pjhooker/pen/rNzRWbr" %}

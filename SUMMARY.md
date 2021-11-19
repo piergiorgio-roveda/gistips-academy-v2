@@ -18,5 +18,6 @@
 * [Tutorials](academy/tutorials/README.md)
   * [WebGIS](academy/tutorials/code-tips/README.md)
     * [Leaflet Quick Start Guide](academy/tutorials/code-tips/leaflet-quick-start-guide.md)
-    * [MOD000 - Prepare modules](academy/tutorials/code-tips/mod000-prepare-modules.md)
-    * [MOD001 - Ribbon](academy/tutorials/code-tips/mod001-ribbon.md)
+    * [MOD000 - Prepare ext.](academy/tutorials/code-tips/mod000-prepare-ext..md)
+    * [MOD001 - ext. Ribbon](academy/tutorials/code-tips/mod001-ext.-ribbon.md)
+    * [MOD002 - Improve the style](academy/tutorials/code-tips/mod002-improve-the-style.md)

@@ -1,4 +1,8 @@
-# MOD000 - Prepare modules
+---
+description: EXT is like "extension" or/and "external"
+---
+
+# MOD000 - Prepare ext.
 
 In your code, you can see in codepen.io Pen editor:
 
@@ -137,7 +141,7 @@ el.remove();
 
 ### Enable jQuery
 
-This module can be load as "External Scripts". This tutorial use jQuery Core 3.6.0 minified, found here: [https://code.jquery.com/](https://code.jquery.com)
+This library can be load as "External Scripts". This tutorial use jQuery Core 3.6.0 minified, found here: [https://code.jquery.com/](https://code.jquery.com)
 
 {% embed url="https://codepen.io/pjhooker/pen/ExvMNQR" %}
 
