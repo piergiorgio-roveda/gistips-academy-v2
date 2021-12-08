@@ -22,3 +22,5 @@
     * [MOD001 - ext. Ribbon](academy/tutorials/code-tips/mod001-ext.-ribbon.md)
     * [MOD002 - Improve the style](academy/tutorials/code-tips/mod002-improve-the-style.md)
     * [MOD003 - ext. Aletify](academy/tutorials/code-tips/mod003-ext.-aletify.md)
+* [Manual](academy/manual/README.md)
+  * [Create new map](academy/manual/create-new-map.md)
