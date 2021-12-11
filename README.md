@@ -4,7 +4,7 @@ description: GIS Tips Academy aka GTA-00
 
 # GTA-00
 
-![](https://upload.wikimedia.org/wikipedia/commons/9/9f/Gta00-v1.0.png)
+![](.gitbook/assets/gta00-v2.0-wide-gimp.png)
 
 ### Mission
 

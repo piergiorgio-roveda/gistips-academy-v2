@@ -105,7 +105,7 @@ The HTML DOM is a standard **object** model and **programming interface** for HT
 * The **methods** to access all HTML elements
 * The **events** for all HTML elements
 
-In other words:** The HTML DOM is a standard for how to get, change, add, or delete HTML elements.**
+In other words: **The HTML DOM is a standard for how to get, change, add, or delete HTML elements.**
 
 #### jQuery vs JavaScript
 
@@ -113,7 +113,7 @@ In other words:** The HTML DOM is a standard for how to get, change, add, or del
 
 For more than 10 years, jQuery has been the most popular JavaScript library in the world.
 
-However, after JavaScript [Version 5](https://www.w3schools.com/js/js\_es5.asp) (2009), most of the jQuery utilities can be solved with a few lines of standard JavaScript (example:** **Remove an HTML element):
+However, after JavaScript [Version 5](https://www.w3schools.com/js/js\_es5.asp) (2009), most of the jQuery utilities can be solved with a few lines of standard JavaScript (example: **** Remove an HTML element):
 
 ```
 // jQuery
