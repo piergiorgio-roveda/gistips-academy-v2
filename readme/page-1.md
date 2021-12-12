@@ -36,12 +36,7 @@ Happy mapping!
 
 I hope that someone start parallel GIS Tips Academy with GTA-01 and many other follow this example.
 
-### Rules
 
-1. All contents in Academy are free to use and open source
-2. No one can ask for personal information on behalf of the Academy, but all can place name or nickname everywhere
-3. The official language will be English
-4. The contents will always refer to maps, GIS and geolocation
 
 ### A single reference
 
