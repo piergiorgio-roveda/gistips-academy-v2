@@ -1,12 +1,13 @@
 # Table of contents
 
-* [GTA-00](README.md)
+* [GISTIPS-Academy (GTA)](README.md)
   * [Roadmap](readme/roadmap/README.md)
     * [Phase 0.5 - Community](readme/roadmap/phase-0.5-community.md)
   * [License](readme/license.md)
   * [History](readme/history.md)
   * [Link-docs](readme/link-docs.md)
   * [Contact](https://forms.gle/ZZkLjLoaTzGXDmHz9)
+  * [Page 1](readme/page-1.md)
 
 ## Academy
 
