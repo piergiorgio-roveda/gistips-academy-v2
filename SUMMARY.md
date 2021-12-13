@@ -6,6 +6,7 @@
   * [🛣 Roadmap](readme/roadmap.md)
   * [⚖ License](readme/license.md)
   * [🗿 History](readme/history.md)
+  * [🕸 Structure](readme/structure.md)
   * [⛓ Links](readme/link-docs.md)
   * [Contact](https://forms.gle/ZZkLjLoaTzGXDmHz9)
 

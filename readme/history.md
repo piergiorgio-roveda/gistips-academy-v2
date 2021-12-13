@@ -1,5 +1,7 @@
 # 🗿 History
 
+I started 10 years ago with GISTIPS ... and now I open GIS Tips Academy aka GTA-00.
+
 |      |                                                   |
 | ---- | ------------------------------------------------- |
 | 2012 | Open Geospatial lab - trashware and OpenStreetMap |
