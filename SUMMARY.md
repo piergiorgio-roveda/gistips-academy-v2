@@ -1,17 +1,17 @@
 # Table of contents
 
 * [GISTIPS-Academy (GTA)](README.md)
-  * [Roadmap](readme/roadmap/README.md)
-    * [Phase 0.5 - Community](readme/roadmap/phase-0.5-community.md)
-  * [License](readme/license.md)
-  * [History](readme/history.md)
-  * [Link-docs](readme/link-docs.md)
+  * [🤔 Concept](readme/concept.md)
+  * [👤 Privacy](readme/privacy.md)
+  * [🛣 Roadmap](readme/roadmap.md)
+  * [⚖ License](readme/license.md)
+  * [🗿 History](readme/history.md)
+  * [⛓ Links](readme/link-docs.md)
   * [Contact](https://forms.gle/ZZkLjLoaTzGXDmHz9)
-  * [Page 1](readme/page-1.md)
 
 ## Academy
 
-* [Project](academy/project.md)
+* [🚀 Project](academy/project.md)
 * [Discord server](academy/discord-server/README.md)
   * [Sections](academy/discord-server/sections.md)
 * [Utility](academy/utility/README.md)

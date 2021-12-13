@@ -1,4 +1,4 @@
-# Link-docs
+# ⛓ Links
 
 * **Wiki/Git-book** [https://piergiorgio.gitbook.io/gistips-academy/](https://piergiorgio.gitbook.io/gistips-academy/)
 * **Official Website** [https://cityplanner.biz/](https://cityplanner.biz)
