@@ -1,6 +1,13 @@
+---
+description: >-
+  When it comes to GIS it is difficult to have a single definition. This is
+  because GIS are simply software, but to use them it is necessary to study a
+  logic.
+---
+
 # 🤔 Concept
 
-When it comes to GIS it is difficult to have a single definition. This is because GIS are simply software, but to use them it is necessary to study a logic. The Academy is built to host these logics and create methods, to be used:
+&#x20;The Academy is built to host these logics and create methods, to be used:
 
 * for creating map
 * for analyzing geographic data
@@ -34,7 +41,14 @@ The logic around the GIS can be represented as a Cybernetic Loop. Inside the Aca
 
 ## Communication activities
 
-Dissemination all over the world through communication activities
+{% hint style="info" %}
+Dissemination all over the world through communication activities.
+{% endhint %}
+
+The best way to spread your knowledge, interests and passions is to make them available in the right way. The method used in the Academy derives from [SEO](https://en.wikipedia.org/wiki/Search\_engine\_optimization) techniques, where the way to create content is derived from the underlying functioning of the internet. Marketing activities are a consequence. Direct or misleading advertising is prohibited from Academy!
+
+The Academy invites you to create unique content, full of insights and discussions. The [Awareness committee](structure.md#committees) is responsible for capturing this method of communication.
 
 ## Community without cost
 
+The Academy uses internet resources for free, but internet consumes extraordinary amounts of energy. This documentation is write on GitBook with free account and all other resources have the same cost.
