@@ -51,4 +51,4 @@ The Academy invites you to create unique content, full of insights and discussio
 
 ## Community without cost
 
-The Academy uses internet resources for free, but internet consumes extraordinary amounts of energy. This documentation is write on GitBook with free account and all other resources have the same cost.
+The Academy uses internet resources for free, but internet consumes extraordinary amounts of energy. This documentation is write on GitBook with free account and all other resources have the same cost. In the Academy we can explore the free tools available and learn how to use them. Some tools are hard to find and must be made available by community members or donors. For example PHP, Geoserver, Postgres are hard to find.
