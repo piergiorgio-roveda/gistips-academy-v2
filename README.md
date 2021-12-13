@@ -2,7 +2,7 @@
 description: >-
   Community-driven academy to share environmental protection geospatial
   solutions
-cover: .gitbook/assets/gta00-v2.0-wide-gimp.png
+cover: .gitbook/assets/banner1-gta.png
 coverY: 0
 ---
 
