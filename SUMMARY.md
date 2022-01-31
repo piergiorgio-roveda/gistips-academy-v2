@@ -16,6 +16,7 @@
 * [Discord server](academy/discord-server/README.md)
   * [Sections](academy/discord-server/sections.md)
 * [Utility](academy/utility/README.md)
+  * [Data generator](academy/utility/data-generator.md)
   * [Text and paragraphs](academy/utility/text-and-paragraphs.md)
 * [Tutorials](academy/tutorials/README.md)
   * [WebGIS](academy/tutorials/code-tips/README.md)
@@ -28,3 +29,5 @@
     * [🛸 WebGIS experiments](academy/tutorials/experiments/webgis-experiments.md)
 * [Manual](academy/manual/README.md)
   * [Create new map](academy/manual/create-new-map.md)
+* [Gaming](academy/gaming/README.md)
+  * [Rarity](academy/gaming/rarity.md)
