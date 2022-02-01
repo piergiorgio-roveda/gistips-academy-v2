@@ -20,6 +20,7 @@ coverY: 0
 | GeohashBook2 | [/gta/webgis/map001/](https://cityplanner.biz/gta/webgis/map001/)                           | Tested         |
 | Coorporation | [/gta/webgis/map002/](https://cityplanner.biz/gta/webgis/map002/)                           | Tested         |
 | RPG          | [/gta/webgis/map002/](https://cityplanner.biz/gta/webgis/map003/)                           | WorkInProgress |
+| W18          | [/link/](https://dev.cityplanner.biz/geosystem18dev/wp-login.php)                           | Tested         |
 
 ## ARCHIVE 02
 
@@ -88,62 +89,62 @@ coverY: 0
 
 ## ARCHIVE 01
 
-| Name    | Url                                                                                                                      | Note      |
-| ------- | ------------------------------------------------------------------------------------------------------------------------ | --------- |
-| basemap | [/link/](https://cityplanner.biz/gta/webgis/archive01/basemap/)                                                          | in review |
-| bootleaf-milano | [/link/](https://cityplanner.biz/gta/webgis/archive01/bootleaf-master\_milano/)                                          | in review |
+| Name                | Url                                                                                                                      | Note      |
+| ------------------- | ------------------------------------------------------------------------------------------------------------------------ | --------- |
+| basemap             | [/link/](https://cityplanner.biz/gta/webgis/archive01/basemap/)                                                          | in review |
+| bootleaf-milano     | [/link/](https://cityplanner.biz/gta/webgis/archive01/bootleaf-master\_milano/)                                          | in review |
 | bootleaf-monferrato | [/link/](https://cityplanner.biz/gta/webgis/archive01/bootleaf-master\_monferrato/)                                      | in review |
-| bootleaf-sixx | [/link/](https://cityplanner.biz/gta/webgis/archive01/bootleaf-master\_sixx/)                                            | in review |
-| bootleaf-pesca | [/link/](https://cityplanner.biz/gta/webgis/archive01/bootleaf-pesca/)                                                   | in review |
-| crismill | [/link/](https://cityplanner.biz/gta/webgis/archive01/crismill/)                                                         | in review |
-| timeline | [/link/](https://cityplanner.biz/gta/webgis/archive01/d3js/timeline\_01.php)                                             | Series    |
-| ENDURO\_EWS | [/link/](https://cityplanner.biz/gta/webgis/archive01/ENDURO\_EWS\_map/)                                                 | in review |
-| export | [/link/](https://cityplanner.biz/gta/webgis/archive01/export\_2014\_09\_16\_06\_44\_15/)                                 | in review |
-| export | [/link/](https://cityplanner.biz/gta/webgis/archive01/export\_2014\_09\_16\_11\_49\_50/)                                 | in review |
-| export | [/link/](https://cityplanner.biz/gta/webgis/archive01/export\_2015\_05\_11\_11\_51\_48/miapagina.php)                    | in review |
-| maffe | [/link/](https://cityplanner.biz/gta/webgis/archive01/export\_2015\_maffe/)                                              | in review |
-| all\_comuni | [/link/](https://cityplanner.biz/gta/webgis/archive01/export\_ita\_all\_comuni/)                                         | in review |
-| testaccio | [/link/](https://cityplanner.biz/gta/webgis/archive01/export\_qgis2leaf\_testaccio\_sound\_map\_1/)                      | in review |
-| timeline | [/link/](https://cityplanner.biz/gta/webgis/archive01/export\_timeline/)                                                 | in review |
-| mappagenzie | [/link/](https://cityplanner.biz/gta/webgis/archive01/gdmtech-mappagenzie-dev/)                                          | in review |
-| generatedata | [/link/](https://cityplanner.biz/gta/webgis/archive01/generatedata-master/install.php)                                   | in review |
-| supermarket | [/link/](https://cityplanner.biz/gta/webgis/archive01/google\_supermarket/)                                              | in review |
-| isoline | [/link/](https://cityplanner.biz/gta/webgis/archive01/here\_isoline/)                                                    | in review |
+| bootleaf-sixx       | [/link/](https://cityplanner.biz/gta/webgis/archive01/bootleaf-master\_sixx/)                                            | in review |
+| bootleaf-pesca      | [/link/](https://cityplanner.biz/gta/webgis/archive01/bootleaf-pesca/)                                                   | in review |
+| crismill            | [/link/](https://cityplanner.biz/gta/webgis/archive01/crismill/)                                                         | in review |
+| timeline            | [/link/](https://cityplanner.biz/gta/webgis/archive01/d3js/timeline\_01.php)                                             | Series    |
+| ENDURO\_EWS         | [/link/](https://cityplanner.biz/gta/webgis/archive01/ENDURO\_EWS\_map/)                                                 | in review |
+| export              | [/link/](https://cityplanner.biz/gta/webgis/archive01/export\_2014\_09\_16\_06\_44\_15/)                                 | in review |
+| export              | [/link/](https://cityplanner.biz/gta/webgis/archive01/export\_2014\_09\_16\_11\_49\_50/)                                 | in review |
+| export              | [/link/](https://cityplanner.biz/gta/webgis/archive01/export\_2015\_05\_11\_11\_51\_48/miapagina.php)                    | in review |
+| maffe               | [/link/](https://cityplanner.biz/gta/webgis/archive01/export\_2015\_maffe/)                                              | in review |
+| all\_comuni         | [/link/](https://cityplanner.biz/gta/webgis/archive01/export\_ita\_all\_comuni/)                                         | in review |
+| testaccio           | [/link/](https://cityplanner.biz/gta/webgis/archive01/export\_qgis2leaf\_testaccio\_sound\_map\_1/)                      | in review |
+| timeline            | [/link/](https://cityplanner.biz/gta/webgis/archive01/export\_timeline/)                                                 | in review |
+| mappagenzie         | [/link/](https://cityplanner.biz/gta/webgis/archive01/gdmtech-mappagenzie-dev/)                                          | in review |
+| generatedata        | [/link/](https://cityplanner.biz/gta/webgis/archive01/generatedata-master/install.php)                                   | in review |
+| supermarket         | [/link/](https://cityplanner.biz/gta/webgis/archive01/google\_supermarket/)                                              | in review |
+| isoline             | [/link/](https://cityplanner.biz/gta/webgis/archive01/here\_isoline/)                                                    | in review |
 | desktop-geolocation | [/link/](https://cityplanner.biz/gta/webgis/archive01/javascript-mobile-desktop-geolocation-master/demo-simulation.html) | in review |
-| _callback | [/link/](https://cityplanner.biz/gta/webgis/archive01/jquery\_ajax\_callback/)                                           | in review |
-| leaflet-gpx | [/link/](https://cityplanner.biz/gta/webgis/archive01/leaflet-gpx/)                                                      | in review |
-| accessibilita2 | [/link/](https://cityplanner.biz/gta/webgis/archive01/leaflet\_accessibilita2/mappa.html)                                | in review |
-| base | [/link/](https://cityplanner.biz/gta/webgis/archive01/leafletjs\_base/)                                                  | in review |
-| example | [/link/](https://cityplanner.biz/gta/webgis/archive01/leafletjs\_example/)                                               | Series    |
-| lombardia | [/link/](https://cityplanner.biz/gta/webgis/archive01/leafletjs\_tile\_lombardia/)                                       | in review |
-| epoch | [/link/](https://cityplanner.biz/gta/webgis/archive01/LeafletSlider-master/examples/epoch.html)                          | in review |
+| \_callback          | [/link/](https://cityplanner.biz/gta/webgis/archive01/jquery\_ajax\_callback/)                                           | in review |
+| leaflet-gpx         | [/link/](https://cityplanner.biz/gta/webgis/archive01/leaflet-gpx/)                                                      | in review |
+| accessibilita2      | [/link/](https://cityplanner.biz/gta/webgis/archive01/leaflet\_accessibilita2/mappa.html)                                | in review |
+| base                | [/link/](https://cityplanner.biz/gta/webgis/archive01/leafletjs\_base/)                                                  | in review |
+| example             | [/link/](https://cityplanner.biz/gta/webgis/archive01/leafletjs\_example/)                                               | Series    |
+| lombardia           | [/link/](https://cityplanner.biz/gta/webgis/archive01/leafletjs\_tile\_lombardia/)                                       | in review |
+| epoch               | [/link/](https://cityplanner.biz/gta/webgis/archive01/LeafletSlider-master/examples/epoch.html)                          | in review |
 | lezione\_03\_08\_05 | [/link/](https://cityplanner.biz/gta/webgis/archive01/lezione\_03\_08\_05/)                                              | in review |
-| parchi | [/link/](https://cityplanner.biz/gta/webgis/archive01/manoxmanoparchi\_qgis2leaf/)                                       | in review |
-| mappa-idranti | [/link/](https://cityplanner.biz/gta/webgis/archive01/mappa-idranti/mappa\_idranti.html)                                 | in review |
-| itinerario | [/link/](https://cityplanner.biz/gta/webgis/archive01/mappa\_itinerario\_locale/)                                        | in review |
-| d3\_tutorial | [/link/](https://cityplanner.biz/gta/webgis/archive01/maptime\_d3\_tutorial/)                                            | Series    |
-| multisearch | [/link/](https://cityplanner.biz/gta/webgis/archive01/multisearch/)                                                      | in review |
-| newhome | [/link/](https://cityplanner.biz/gta/webgis/archive01/newhome/)                                                          | in review |
-| legnano | [/link/](https://cityplanner.biz/gta/webgis/archive01/pgt\_legnano\_v1/)                                                 | in review |
-| export | [/link/](https://cityplanner.biz/gta/webgis/archive01/pim\_milano/leafletjs/export\_2015\_05\_04\_06\_01\_16/)           | in review |
-| provapet | [/link/](https://cityplanner.biz/gta/webgis/archive01/provapettorano/index\_pj.php)                                      | in review |
-| qgi2leafall | [/link/](https://cityplanner.biz/gta/webgis/archive01/qgi2leafall/)                                                      | in review |
-| lombardia\_pop | [/link/](https://cityplanner.biz/gta/webgis/archive01/qgis2leaf\_comuni\_lombardia\_pop/)                                | in review |
-| toscana | [/link/](https://cityplanner.biz/gta/webgis/archive01/qgis2leaf\_ortofoto\_toscana\_firenze/)                            | in review |
-| laura | [/link/](https://cityplanner.biz/gta/webgis/archive01/qgis2leaf\_prova\_laura/)                                          | in review |
-| province\_sup | [/link/](https://cityplanner.biz/gta/webgis/archive01/qgis2leaf\_province\_sup/)                                         | in review |
-| demo1 | [/link/](https://cityplanner.biz/gta/webgis/archive01/qgis2treejs/demo1/)                                                | in review |
-| export | [/link/](https://cityplanner.biz/gta/webgis/archive01/qgis2web\_2018\_04\_17-10\_09\_33\_512000/)                        | in review |
-| skyscraperscity | [/link/](https://cityplanner.biz/gta/webgis/archive01/skyscraperscity/page01.php)                                        | in review |
-| sleeping | [/link/](https://cityplanner.biz/gta/webgis/archive01/sleeping/)                                                         | in review |
-| stefano | [/link/](https://cityplanner.biz/gta/webgis/archive01/stefano\_romani/webmap/)                                           | in review |
-| taste\_italia | [/link/](https://cityplanner.biz/gta/webgis/archive01/taste\_italia/)                                                    | in review |
-| timer | [/link/](https://cityplanner.biz/gta/webgis/archive01/timer/)                                                            | in review |
-| tracker | [/link/](https://cityplanner.biz/gta/webgis/archive01/tracker\_esercizio/)                                               | in review |
-| twitter01 | [/link/](https://cityplanner.biz/gta/webgis/archive01/twitter01/)                                                        | in review |
+| parchi              | [/link/](https://cityplanner.biz/gta/webgis/archive01/manoxmanoparchi\_qgis2leaf/)                                       | in review |
+| mappa-idranti       | [/link/](https://cityplanner.biz/gta/webgis/archive01/mappa-idranti/mappa\_idranti.html)                                 | in review |
+| itinerario          | [/link/](https://cityplanner.biz/gta/webgis/archive01/mappa\_itinerario\_locale/)                                        | in review |
+| d3\_tutorial        | [/link/](https://cityplanner.biz/gta/webgis/archive01/maptime\_d3\_tutorial/)                                            | Series    |
+| multisearch         | [/link/](https://cityplanner.biz/gta/webgis/archive01/multisearch/)                                                      | in review |
+| newhome             | [/link/](https://cityplanner.biz/gta/webgis/archive01/newhome/)                                                          | in review |
+| legnano             | [/link/](https://cityplanner.biz/gta/webgis/archive01/pgt\_legnano\_v1/)                                                 | in review |
+| export              | [/link/](https://cityplanner.biz/gta/webgis/archive01/pim\_milano/leafletjs/export\_2015\_05\_04\_06\_01\_16/)           | in review |
+| provapet            | [/link/](https://cityplanner.biz/gta/webgis/archive01/provapettorano/index\_pj.php)                                      | in review |
+| qgi2leafall         | [/link/](https://cityplanner.biz/gta/webgis/archive01/qgi2leafall/)                                                      | in review |
+| lombardia\_pop      | [/link/](https://cityplanner.biz/gta/webgis/archive01/qgis2leaf\_comuni\_lombardia\_pop/)                                | in review |
+| toscana             | [/link/](https://cityplanner.biz/gta/webgis/archive01/qgis2leaf\_ortofoto\_toscana\_firenze/)                            | in review |
+| laura               | [/link/](https://cityplanner.biz/gta/webgis/archive01/qgis2leaf\_prova\_laura/)                                          | in review |
+| province\_sup       | [/link/](https://cityplanner.biz/gta/webgis/archive01/qgis2leaf\_province\_sup/)                                         | in review |
+| demo1               | [/link/](https://cityplanner.biz/gta/webgis/archive01/qgis2treejs/demo1/)                                                | in review |
+| export              | [/link/](https://cityplanner.biz/gta/webgis/archive01/qgis2web\_2018\_04\_17-10\_09\_33\_512000/)                        | in review |
+| skyscraperscity     | [/link/](https://cityplanner.biz/gta/webgis/archive01/skyscraperscity/page01.php)                                        | in review |
+| sleeping            | [/link/](https://cityplanner.biz/gta/webgis/archive01/sleeping/)                                                         | in review |
+| stefano             | [/link/](https://cityplanner.biz/gta/webgis/archive01/stefano\_romani/webmap/)                                           | in review |
+| taste\_italia       | [/link/](https://cityplanner.biz/gta/webgis/archive01/taste\_italia/)                                                    | in review |
+| timer               | [/link/](https://cityplanner.biz/gta/webgis/archive01/timer/)                                                            | in review |
+| tracker             | [/link/](https://cityplanner.biz/gta/webgis/archive01/tracker\_esercizio/)                                               | in review |
+| twitter01           | [/link/](https://cityplanner.biz/gta/webgis/archive01/twitter01/)                                                        | in review |
 | twitter02monferrato | [/link/](https://cityplanner.biz/gta/webgis/archive01/twitter02monferrato/index\_monferrato.php)                         | in review |
-| varesesicura | [/link/](https://cityplanner.biz/gta/webgis/archive01/varesesicura/)                                                     | in review |
-| postgis01| [/link/](https://cityplanner.biz/gta/webgis/archive01/webmap\_postgis01/)                                                | in review |
-| catasto | [/link/](https://cityplanner.biz/gta/webgis/archive01/webmapp\_catasto\_legnano/webmap\_indice\_fogli/)                  | in review |
-| wifi | [/link/](https://cityplanner.biz/gta/webgis/archive01/wifi/)                                                             | in review |
-| xmaps | [/link/](https://cityplanner.biz/gta/webgis/archive01/xmaps/)                                                            | in review |
+| varesesicura        | [/link/](https://cityplanner.biz/gta/webgis/archive01/varesesicura/)                                                     | in review |
+| postgis01           | [/link/](https://cityplanner.biz/gta/webgis/archive01/webmap\_postgis01/)                                                | in review |
+| catasto             | [/link/](https://cityplanner.biz/gta/webgis/archive01/webmapp\_catasto\_legnano/webmap\_indice\_fogli/)                  | in review |
+| wifi                | [/link/](https://cityplanner.biz/gta/webgis/archive01/wifi/)                                                             | in review |
+| xmaps               | [/link/](https://cityplanner.biz/gta/webgis/archive01/xmaps/)                                                            | in review |

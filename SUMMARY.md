@@ -31,3 +31,7 @@
   * [Create new map](academy/manual/create-new-map.md)
 * [Gaming](academy/gaming/README.md)
   * [Rarity](academy/gaming/rarity.md)
+* [Geodata](academy/geodata/README.md)
+  * [Basemap](academy/geodata/basemap.md)
+* [Technical articles](academy/technical-articles/README.md)
+  * [StravaHeatmap Tiles](academy/technical-articles/stravaheatmap-tiles.md)
