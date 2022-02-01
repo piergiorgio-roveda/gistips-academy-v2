@@ -10,9 +10,11 @@ If the follow image work, the service works!
 
 For load these tile in QGIS you can add the following url in "XYZ Connections".
 
-([Strava datasheet](https://github.com/piergiorgio-roveda/gistips-academy/blob/main/datasheets/datasheets-01/datasheet-geodata-basemap-strava.md))
+```
+https://proxy.nakarte.me/https/heatmap-external-a.strava.com/tiles-auth/all/hot/%7Bz%7D/%7Bx%7D/%7By%7D.png
+```
 
-{% embed url="https://proxy.nakarte.me/https/heatmap-external-a.strava.com/tiles-auth/all/hot/%7Bz%7D/%7Bx%7D/%7By%7D.png" %}
+([Strava datasheet](https://github.com/piergiorgio-roveda/gistips-academy/blob/main/datasheets/datasheets-01/datasheet-geodata-basemap-strava.md))
 
 ## StravaHeatmap Tiles in QGIS example
 
