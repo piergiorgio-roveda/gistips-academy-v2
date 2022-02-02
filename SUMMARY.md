@@ -20,6 +20,7 @@
   * [Web libraries](academy/utility/web-libraries.md)
   * [Text and paragraphs](academy/utility/text-and-paragraphs.md)
 * [Tutorials](academy/tutorials/README.md)
+  * [Server](academy/tutorials/server.md)
   * [WebGIS](academy/tutorials/code-tips/README.md)
     * [Leaflet Quick Start Guide](academy/tutorials/code-tips/leaflet-quick-start-guide.md)
     * [MOD000 - Prepare ext.](academy/tutorials/code-tips/mod000-prepare-ext..md)
