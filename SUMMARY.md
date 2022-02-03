@@ -43,5 +43,5 @@
   * [External resource](academy/geodata/external-resource.md)
 * [Technical articles](academy/technical-articles/README.md)
   * [StravaHeatmap Tiles](academy/technical-articles/stravaheatmap-tiles.md)
-  * [Adding tile layer via PyQGIS](academy/technical-articles/adding-tile-layer-via-pyqgis)
+  * [Adding tile layer via PyQGIS](academy/technical-articles/adding-tile-layer-via-pyqgis.md)
 * [Best maps](academy/best-maps.md)

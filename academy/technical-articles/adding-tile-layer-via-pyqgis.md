@@ -6,13 +6,9 @@ Any idea how to add a tile layer (XYZ-Layer) using PyQGIS 101 to a map?
 
 ## QGIS 3.14 tested script
 
-qgis-script-C210421-Adding-tile-layer-via-PyQGIS.py    
-',//<-yoast
-'
-<pre>
-<code>
+qgis-script-C210421-Adding-tile-layer-via-PyQGIS.py
 
-"""
+
 This script should be run from the Python consol inside QGIS.
 
 It adds online sources to the QGIS Browser.
@@ -32,10 +28,8 @@ Most likely they will restrict how you can use the data.
 Example:
 For Esri basemaps you will need a valid ArcGIS online subscription to use the maps.
 
-"""
-
-
 # Sources
+
 sources = []
 sources.append(["connections-xyz","Google Maps","","","","https://mt1.google.com/vt/lyrs=m&x=%7Bx%7D&y=%7By%7D&z=%7Bz%7D","","19","0"])
 sources.append(["connections-xyz","Google Satellite", "", "", "", "https://mt1.google.com/vt/lyrs=s&x=%7Bx%7D&y=%7By%7D&z=%7Bz%7D", "", "19", "0"])
@@ -69,8 +63,8 @@ sources.append(["connections-xyz","CartoDb Dark Matter", "", "", "Map tiles by C
 sources.append(["connections-xyz","CartoDb Positron", "", "", "Map tiles by CartoDB, under CC BY 3.0. Data by OpenStreetMap, under ODbL.", "http://basemaps.cartocdn.com/light_all/%7Bz%7D/%7Bx%7D/%7By%7D.png", "", "20", "0"])
 sources.append(["connections-xyz","Bing VirtualEarth", "", "", "", "http://ecn.t3.tiles.virtualearth.net/tiles/a{q}.jpeg?g=1", "", "19", "1"])
 
-
 # Add sources to browser
+
 for source in sources:
     connectionType = source[0]
     connectionName = source[1]
@@ -83,6 +77,5 @@ for source in sources:
     QSettings().setValue("qgis/%s/%s/zmin" % (connectionType, connectionName), source[8])
 
 # Update GUI
+
 iface.reloadConnections()    
-</code>
-</pre>   
