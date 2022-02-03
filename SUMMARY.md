@@ -20,7 +20,7 @@
   * [Web libraries](academy/utility/web-libraries.md)
   * [Text and paragraphs](academy/utility/text-and-paragraphs.md)
 * [Tutorials](academy/tutorials/README.md)
-  * [useful-codes-postgres-postgis-pgrouting](academy/tutorials/README.md)
+  * [useful-codes-postgres-postgis-pgrouting](academy/tutorials/useful-codes-postgres-postgis-pgrouting/README.md)
     * [add_column](academy/tutorials/useful-codes-postgres-postgis-pgrouting/add_column.md)
   * [Server](academy/tutorials/server.md)
   * [WebGIS](academy/tutorials/code-tips/README.md)
