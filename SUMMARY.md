@@ -46,4 +46,7 @@
 * [Technical articles](academy/technical-articles/README.md)
   * [StravaHeatmap Tiles](academy/technical-articles/stravaheatmap-tiles.md)
   * [Adding tile layer via PyQGIS](academy/technical-articles/adding-tile-layer-via-pyqgis.md)
+  * [How to use CSS Sprites with LeafletJS icons](academy/technical-articles/leafletjs-icon-sprite-rpg.md)
+  * [download Open Street Map data](academy/technical-articles/osm-download-data-with-full-details.md)
+  * [download Open Street Map data 01](academy/technical-articles/osm-download-data-with-full-details-01.md)
 * [Best maps](academy/best-maps.md)
