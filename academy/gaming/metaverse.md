@@ -1,8 +1,35 @@
 # Metaverse
 
+## Documentation
+
+{% hint style="info" %}
+[doc/metaverse](https://drive.google.com/drive/folders/14WuzFiGPj9uLDRKuwfZuh3k0w2q1evSV?usp=sharing)
+{% endhint %}
+
+## Metaverse Roadmap (MVR)
+
+{% embed url="https://www.metaverseroadmap.org" %}
+
+## METAVERSE INTEROPERABILITY COMMUNITY GROUP
+
+{% embed url="https://www.w3.org/community/metaverse-interop" %}
+
+## Building the Open Metaverse
+
+A podcast that invites a broad range of technical experts to share their insights on how the community is building the metaverse together.
+
 * [https://cesium.com/open-metaverse-podcast/cloud-rendering-on-the-blockchain/](https://cesium.com/open-metaverse-podcast/cloud-rendering-on-the-blockchain/)
+
+{% embed url="https://cesium.com/open-metaverse-podcast/cloud-rendering-on-the-blockchain" %}
+
 * [https://www.youtube.com/watch?v=AOCd-XOo9GA](https://www.youtube.com/watch?v=AOCd-XOo9GA)
 * [https://twitter.com/CesiumJS](https://twitter.com/CesiumJS)
+
+## Open Metaverse Interoperability Group
+
+Bridging virtual worlds by designing and promoting shared protocols
+
+{% embed url="https://omigroup.org/home" %}
 
 ## Google
 
