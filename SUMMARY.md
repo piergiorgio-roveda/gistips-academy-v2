@@ -49,6 +49,8 @@
   * [Blockchain](academy/gaming/blockchain.md)
   * [RealEstate](academy/gaming/realestate.md)
   * [Gaming RPG: Rarity](academy/gaming/rarity.md)
+  * [Validators](academy/gaming/validators.md)
+  * [Dashboard](academy/gaming/dashboard.md)
 * [Geodata](academy/geodata/README.md)
   * [Basemap](academy/geodata/basemap.md)
   * [OpenStreetMap](academy/geodata/openstreetmap.md)

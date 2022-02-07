@@ -37,3 +37,7 @@ Bridging virtual worlds by designing and promoting shared protocols
 * [https://lightship.dev/solutions/](https://lightship.dev/solutions/)
 * [https://pikminbloom.com/en/gameplay/](https://pikminbloom.com/en/gameplay/)
 * Niantic lancia la piattaforma Lightship per il Real-World Metaverse [https://www.datamanager.it/2021/11/niantic-lancia-la-piattaforma-lightship-per-il-real-world-metaverse/](https://www.datamanager.it/2021/11/niantic-lancia-la-piattaforma-lightship-per-il-real-world-metaverse/)
+
+## outlierventures
+
+{% embed url="https://outlierventures.io/research/state-of-the-open-metaverse-2021-22" %}
