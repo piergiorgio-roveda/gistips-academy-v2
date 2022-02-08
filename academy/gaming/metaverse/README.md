@@ -41,3 +41,7 @@ Bridging virtual worlds by designing and promoting shared protocols
 ## outlierventures
 
 {% embed url="https://outlierventures.io/research/state-of-the-open-metaverse-2021-22" %}
+
+## Computer Scientist Explains One Concept in 5 Levels of Difficulty | WIRED
+
+{% embed url="https://www.youtube.com/watch?v=fOGdb1CTu5c" %}

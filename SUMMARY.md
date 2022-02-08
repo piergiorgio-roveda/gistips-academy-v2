@@ -47,6 +47,7 @@
 * [Proof-of-location](academy/gaming/README.md)
   * [Metaverse](academy/gaming/metaverse/README.md)
     * [Building the Open Metaverse Podcast](academy/gaming/metaverse/building-the-open-metaverse-podcast.md)
+    * [Geo-Based Minting](academy/gaming/metaverse/geo-based-minting.md)
   * [Blockchain](academy/gaming/blockchain.md)
   * [RealEstate](academy/gaming/realestate.md)
   * [Gaming RPG: Rarity](academy/gaming/rarity.md)
