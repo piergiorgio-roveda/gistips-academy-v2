@@ -53,6 +53,8 @@
   * [Gaming RPG: Rarity](academy/gaming/rarity.md)
   * [Validators](academy/gaming/validators.md)
   * [Dashboard](academy/gaming/dashboard.md)
+  * [Chains](academy/gaming/chains/README.md)
+    * [Osmosis](academy/gaming/chains/osmosis.md)
 * [Geodata](academy/geodata/README.md)
   * [Basemap](academy/geodata/basemap.md)
   * [OpenStreetMap](academy/geodata/openstreetmap.md)
