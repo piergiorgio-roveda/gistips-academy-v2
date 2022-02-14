@@ -61,6 +61,7 @@
     * [Osmosis](academy/gaming/chains/osmosis.md)
     * [Secret network](academy/gaming/chains/secret-network/README.md)
       * [Secret NFT](academy/gaming/chains/secret-network/secret-nft.md)
+    * [Render](academy/gaming/chains/render.md)
 * [Geodata](academy/geodata/README.md)
   * [Basemap](academy/geodata/basemap.md)
   * [OpenStreetMap](academy/geodata/openstreetmap.md)
