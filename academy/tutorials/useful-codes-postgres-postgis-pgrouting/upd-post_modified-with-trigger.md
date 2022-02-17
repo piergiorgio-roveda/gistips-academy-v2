@@ -4,22 +4,15 @@
 DROP FUNCTION IF EXISTS public.fwd_update_twitter_user();
 
 CREATE OR REPLACE FUNCTION public.fwd_update_twitter_user()
-    RETURNS trigger
-    LANGUAGE 'plpgsql'
-    COST 100
-    VOLATILE NOT LEAKPROOF
-AS $BODY$
+    RETURNS TRIGGER AS $$
     BEGIN
-        UPDATE twitter_user
-			SET 
-				post_modified = now()
-		WHERE pid = NEW.pid;
-        RETURN NEW;
+       NEW.post_modified = NOW(); 
+       RETURN NEW;
     END;
-$BODY$;
+    $$ language 'plpgsql';
 
 CREATE TRIGGER tgeo_update_twitter_user
-    AFTER UPDATE
+    BEFORE UPDATE
     ON public.twitter_user
     FOR EACH ROW
     EXECUTE PROCEDURE public.fwd_update_twitter_user();
