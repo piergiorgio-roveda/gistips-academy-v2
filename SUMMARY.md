@@ -24,6 +24,7 @@
     * [add\_column](academy/tutorials/useful-codes-postgres-postgis-pgrouting/add\_column.md)
     * [UPDATE with join](academy/tutorials/useful-codes-postgres-postgis-pgrouting/update-with-join.md)
     * [Create code from seq](academy/tutorials/useful-codes-postgres-postgis-pgrouting/create-code-from-seq.md)
+    * [UPD post\_modified with Trigger](academy/tutorials/useful-codes-postgres-postgis-pgrouting/upd-post\_modified-with-trigger.md)
   * [Server](academy/tutorials/server.md)
   * [WebGIS](academy/tutorials/code-tips/README.md)
     * [Leaflet Quick Start Guide](academy/tutorials/code-tips/leaflet-quick-start-guide.md)
