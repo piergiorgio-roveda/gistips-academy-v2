@@ -14,7 +14,7 @@ GTA is a community of users about methods and operational tools for environmenta
 
 ## Welcome
 
-This is a community-driven called GISTIPS-Academy aka GTA and you are free to join. This community was born in 2010, but what you are seeing is the new version that started in 2021. There is no link to the old versions, but knowledge remains. Did you know that Geospatial revolutions started in 2020? The community's goal is to be part of this revolution. Welcome on board.
+This is a community-driven called GISTIPS-Academy aka GTA and you are free to join. This community started in 2010, but what you are seeing is the new version that started in 2021. There is no link to the old versions, but knowledge remains. Did you know that Geospatial revolutions started in 2020? The community's goal is to be part of this revolution. Welcome on board.
 
 ## Mission
 
