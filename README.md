@@ -10,6 +10,8 @@ coverY: 0
 
 ## Description
 
+**I want this community to grow.**
+
 GTA is a community of users about methods and operational tools for environmental protection, geospatial technologies and everything awesome around it. Members of this community are commonly (but not limited to being) cartographers, geographic information system (GIS) professionals, surveyors, scientists, academics, those whose work has a geographic component and some robots. The power of the community is knowledge. Any obstacle to this knowledge will put an end to this community. The 2 words GIS + TIPS, are in common use. Anyone can become a member, be part of the organizational structure, clone this community.
 
 ## Welcome
