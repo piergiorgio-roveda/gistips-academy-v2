@@ -42,7 +42,7 @@ define('PSWD','12345678');
 
 ```php
 <?php
-include('credential-medeeg8twhxuzqgpy32phn9r.php');
+include('credential.php');
 function connessione_pdo_postgres(){
   $dbname=DBNAME
   $host = HOST;
