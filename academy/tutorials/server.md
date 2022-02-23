@@ -26,7 +26,7 @@ sudo phpenmod mbstring
 sudo systemctl restart apache2
 ```
 
-## Connessione PDO Postgres
+## Test connessione PDO Postgres
 
 ```php
 <?php
