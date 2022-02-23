@@ -28,14 +28,27 @@ sudo systemctl restart apache2
 
 ## Test connessione PDO Postgres
 
+credential.php
+
 ```php
 <?php
+define('DBNAME','mydb');
+define('HOST','localhost');
+define('PORT','5432');
+define('DBUSER','ubuntu');
+define('PSWD','12345678');
+?>
+```
+
+```php
+<?php
+include('credential-medeeg8twhxuzqgpy32phn9r.php');
 function connessione_pdo_postgres(){
-  $dbname=='mydb'
-  $host = 'localhost';
-  $port = '5432';
-  $user = 'ubuntu';
-  $password = '12345678';
+  $dbname=DBNAME
+  $host = HOST;
+  $port = PORT;
+  $user = DBUSER;
+  $password = PSWD;
   $dbh = new PDO("pgsql:host=$host;dbname=$dbname", $user, $password);
   return $dbh;
 }
