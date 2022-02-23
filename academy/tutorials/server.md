@@ -42,9 +42,11 @@ define('PSWD','12345678');
 
 ```php
 <?php
-include('credential.php');
+
+require_once('credential.php');
+
 function connessione_pdo_postgres(){
-  $dbname=DBNAME
+  $dbname=DBNAME;
   $host = HOST;
   $port = PORT;
   $user = DBUSER;
