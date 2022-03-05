@@ -55,7 +55,7 @@
   * [Blockchain](academy/gaming/blockchain/README.md)
     * [Privacy](academy/gaming/blockchain/privacy.md)
   * [RealEstate](academy/gaming/realestate.md)
-  * [GamiFi](academy/gaming/rarity/README.md)
+  * [🕹 GamiFi](academy/gaming/rarity/README.md)
     * [Rarity](academy/gaming/rarity/rarity.md)
     * [🗿 Defira & DeFimons](academy/gaming/rarity/defira-and-defimons.md)
   * [Validators](academy/gaming/validators.md)
