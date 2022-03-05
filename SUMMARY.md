@@ -57,7 +57,7 @@
   * [RealEstate](academy/gaming/realestate.md)
   * [GamiFi](academy/gaming/rarity/README.md)
     * [Rarity](academy/gaming/rarity/rarity.md)
-    * [Defira & DeFimons](academy/gaming/rarity/defira-and-defimons.md)
+    * [🗿 Defira & DeFimons](academy/gaming/rarity/defira-and-defimons.md)
   * [Validators](academy/gaming/validators.md)
   * [Dashboard](academy/gaming/dashboard.md)
   * [Chains](academy/gaming/chains/README.md)
