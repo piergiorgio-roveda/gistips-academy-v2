@@ -32,6 +32,7 @@
     * [MOD001 - ext. Ribbon](academy/tutorials/code-tips/mod001-ext.-ribbon.md)
     * [MOD002 - Improve the style](academy/tutorials/code-tips/mod002-improve-the-style.md)
     * [MOD003 - ext. Aletify](academy/tutorials/code-tips/mod003-ext.-aletify.md)
+    * [Log](academy/tutorials/code-tips/log.md)
   * [Experiments](academy/tutorials/experiments/README.md)
     * [🛸 WebGIS experiments](academy/tutorials/experiments/webgis-experiments.md)
 * [Graphic](academy/graphic/README.md)
